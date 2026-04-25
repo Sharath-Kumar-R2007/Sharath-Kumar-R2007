@@ -54,3 +54,4 @@ I document my daily progress:
 - C++ mastery  
 - Problem solving (loops, patterns, logic)  
 - Preparing for Data Structures  
+![](https://nirzak-streak-stats.vercel.app/?user=Sharath-Kumar-R2007&theme=tokyonight)
