@@ -55,3 +55,4 @@ I document my daily progress:
 - Problem solving (loops, patterns, logic)  
 - Preparing for Data Structures  
 ![](https://nirzak-streak-stats.vercel.app/?user=Sharath-Kumar-R2007&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Sharath-Kumar-R2007&theme=tokyonight&hide_border=true)
